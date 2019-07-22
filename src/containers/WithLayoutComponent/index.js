@@ -1,5 +1,3 @@
-import React from 'react'
-
 import withLayout from '../../highOrderComponents/withLayout.js'
 
 import Profile from "../Profile";

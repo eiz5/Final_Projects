@@ -8,7 +8,7 @@ export const cardList = (state=getDefaultState, action) => {
             return {
                 ...state,
                 items: action.cards
-            }
+            };
         default:
             return state
     }
